@@ -1,0 +1,10 @@
+#register{
+  float: left;
+}
+
+#depo{
+  float: right;
+}
+/*#current_balance{
+  visibility: hidden;
+}*/
